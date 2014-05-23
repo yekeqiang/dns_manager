@@ -1,3 +1,3 @@
 this is a dns manager tool
-1¡¢dns zone add/modify/del/delall
-2¡¢when the zone file is change, the snv hooks will trigger,then send mail to somebody 
+1. dns zone add/modify/del/delall
+2. when the zone file is change, the snv hooks will trigger,then send mail to somebody 
