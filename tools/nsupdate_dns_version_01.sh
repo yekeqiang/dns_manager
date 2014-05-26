@@ -1,4 +1,11 @@
 #!/bin/bash
+# this function is use to add domain to dns by nsupdate
+# write by keqiang.ye
+# email: yekeqiang@gmail.com 
+#
+#
+
+
 
 CALLER=`basename $0`
 
